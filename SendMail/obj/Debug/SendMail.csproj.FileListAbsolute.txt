@@ -1,0 +1,10 @@
+C:\Users\П\AppData\Local\Temporary Projects\SendMail\bin\Debug\SendMail.exe.config
+G:\swer\Project\SendMail\SendMail\bin\Debug\SendMail.exe.config
+G:\swer\Project\SendMail\SendMail\bin\Debug\SendMail.exe
+G:\swer\Project\SendMail\SendMail\bin\Debug\SendMail.pdb
+G:\swer\Project\SendMail\SendMail\obj\Debug\SendMail.fmMain.resources
+G:\swer\Project\SendMail\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+G:\swer\Project\SendMail\SendMail\obj\Debug\SendMail.csproj.GenerateResource.Cache
+G:\swer\Project\SendMail\SendMail\obj\Debug\SendMail.exe
+G:\swer\Project\SendMail\SendMail\obj\Debug\SendMail.pdb
+G:\swer\Project\SendMail\SendMail\obj\Debug\SendMail.fmSend.resources
